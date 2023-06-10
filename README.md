@@ -1,16 +1,15 @@
-# whos_that_pokemon
+# Who's That Pokémon?
 
-Simple Who's That Pokémon app.
+This is a simple "Who's That Pokémon" Android app built using Flutter.
 
-## Getting Started
+## What does it do?
 
-This project is a starting point for a Flutter application.
+The app has a single screen which, upon entering, loads a silhouette of a Pokémon. The user must then type in the name of the Pokémon, and, if it's the correct name, it'll reveal the Pokémon and load another one. If the user doesn't know the Pokémon, they can press the "I don't know." button, which will prompt a new Pokémon to be generated.
 
-A few resources to get you started if this is your first Flutter project:
+This is meant to be a learning project, so I may update it or release it in the future.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This code is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+Every Pokémon image in this project belongs to Nintendo, GameFreak and Creatures.
