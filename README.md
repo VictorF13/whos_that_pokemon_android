@@ -12,4 +12,6 @@ This is meant to be a learning project, so I may update it or release it in the 
 
 This code is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
+This project uses [PokéApi](https://pokeapi.co) to generate the images of the Pokémon.
+
 Every Pokémon image in this project belongs to Nintendo, GameFreak and Creatures.
